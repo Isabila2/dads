@@ -1,0 +1,54 @@
+/*Tudo*/
+* {
+    border: 1px solid rgba(255, 0, 0, 0);
+  }
+  
+  * {
+    padding: 0px;
+    margin: 0px;
+    font-family: Mate SC;
+  
+  }
+  
+  /*Fim tudo*/
+  
+html{
+    background-color: #E4F1FF;
+    width: 100%;
+}
+  
+#boto{
+    width: 400px;
+    height:60px;
+    margin-top: 100px;
+    margin-left: 750px;
+    background-color: #7093B8;
+    border-radius: 50px;
+    color:#ffffff;
+    font-size: 30px;
+}
+
+#boto:hover{
+    transform: scale(1.1);
+    transition: all 0.5s;
+}
+
+#feliz{
+  width: 800px;
+  margin-left: 550px;
+  margin-top: -100px;
+}
+
+#deco1{
+  margin-top: -100px;
+}
+
+#deco3{
+  width: 220px;
+  margin-left: 1626px;
+  margin-top: -200px;
+}
+
+#deco4{
+  margin-left: 1366px;
+}
